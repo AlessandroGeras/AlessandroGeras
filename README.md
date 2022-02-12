@@ -14,6 +14,10 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 ![Github](images/image-20211113232623950.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">
 
+## Test Engineeer rules<br />
+![AS/400](images/test.png)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp=CAU" width="59px">
+
 ## Network Admin rules<br />
 ![AS/400](images/image-20211113214545596.png)
 <img src="https://images-na.ssl-images-amazon.com/images/I/51wrfkuAg-L._SX397_BO1,204,203,200_.jpg" width="39px">
