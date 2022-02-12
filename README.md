@@ -7,6 +7,7 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 ## Full stack rules<br />
 ![Python](images/image-20211113122258724.png)
 ![NodeJS](images/image-20211113125026184.png)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrHGe-GRedxM5chPDm6AplC0X2gHxvDg4hQ&usqp=CAU" width="85px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">
 ![HTML](images/image-20211113125410000.png)
 ![CSS](images/image-20211113125511569.png)
@@ -14,6 +15,8 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 ![Github](images/image-20211113232623950.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv6DDHRpfs9VM8CPl8KQkjjQ48BVPNMlRvQ&usqp=CAU" width="99px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqpzok9nuKWg8XunUpmlgr9dvGxqbWZ3Lfg&usqp=CAU" width="159px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ9kJl-IL3viOoMuXVg8LcL-y-vGFY3pNzQ&usqp=CAU" width="129px">
 
 ## Test Engineeer rules<br />
 ![AS/400](images/test.png)
