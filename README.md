@@ -47,7 +47,8 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">
 
 ## Main Employers<br />
-![HP](images/hp.png)
+![HP](images/hp1.png)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2up5dUHXjboKSvgMkFLM4iPt2W_S9FlMyrQ&usqp=CAU" width="89x">
 
 
 | | **Skills**| |
