@@ -32,11 +32,20 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 ##Tech Teacher Rules<br />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhmEfOgZb2wCQvDUKer8OUeD0WIVB_OASdQ&usqp=CAU" width="119px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/manutencao.jpeg" width="90px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/photoshop.png" width="59px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16D_IzjWs38RV67p33vKnU7MJ4rqsII6b0g&usqp=CAU" width="59px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4dE8nrbQwNZptX8nH6W9QtMzRLFVxl1uUg&usqp=CAU" width="99px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyqU7EUINulzWSRBmd5ESiuOMikKKlj0rgA&usqp=CAU" width="85px">
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/photoshop.png" width="59px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/indesign.png" width="59px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/fireworks.jpeg" width="59px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/illustrator.png" width="59px">
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/flash.jpeg" width="59px">
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/dw.png" width="59x">
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/premiere.png" width="59x">
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">
+
+
+
 
 
 
