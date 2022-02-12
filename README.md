@@ -1,7 +1,8 @@
-<h3> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙 </h3>
+<h2> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙 </h2>
 
-<h2> Sobre mim  </h2>
-Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br /><br />
+<h3> Sobre mim  </h3>
+
+Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br />
 
 ##Full stack new rules<br />
 ![Python](images/image-20211113122258724.png)
@@ -9,9 +10,16 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">
 ![HTML](images/image-20211113125410000.png)
 ![CSS](images/image-20211113125511569.png)
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113130529335.png" width="59px">
+![Github](images/image-20211113232623950.png)
 
 ##Support Technician rules<br />
-![Office](images/image-20210829133813499.png)
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20210829133813499.png" width="54px">
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">
+![Windows](images/image-20211113213944803.png)
+
+##Network Admin rules<br />
+![AS/400](images/image-20211113214545596.png)
 
 
 
