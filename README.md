@@ -1,4 +1,10 @@
-# Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙
+## Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙
+
+####Tech rules
+![Office](images/image-20210829133813499.png)
+
+####Estudant rules
+
 
 
  ##### Heart of Gold spaceship
