@@ -26,7 +26,7 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 
 ## Support Technician rules<br />
 ![Windows](images/image-20211113213944803.png)
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20210829133813499.png" width="54px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">
 
 ## Tech Teacher Rules<br />
@@ -44,6 +44,7 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/dw.png" width="59x">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/premiere.png" width="59x">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">
 
 
 
