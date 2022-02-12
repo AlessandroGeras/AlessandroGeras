@@ -12,6 +12,7 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 ![CSS](images/image-20211113125511569.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113130529335.png" width="59px">
 ![Github](images/image-20211113232623950.png)
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">
 
 ##Support Technician rules<br />
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20210829133813499.png" width="54px">
@@ -20,6 +21,12 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 
 ##Network Admin rules<br />
 ![AS/400](images/image-20211113214545596.png)
+<img src="https://images-na.ssl-images-amazon.com/images/I/51wrfkuAg-L._SX397_BO1,204,203,200_.jpg" width="39px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qffg7ARDlaUenP5Xwffriq2rDJxUd6SsuabUl0wW9W-GXlUwmS9lxve6f359IelNQ8&usqp=CAU" width="85px">
+
+#Test Engineer Rules<br />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7j6wEE5WUZZK9_gMSxgZCmBo89EV9zS0aw&usqp" width="59px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp" width="69px">
 
 
 
