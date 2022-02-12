@@ -17,6 +17,8 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv6DDHRpfs9VM8CPl8KQkjjQ48BVPNMlRvQ&usqp=CAU" width="99px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqpzok9nuKWg8XunUpmlgr9dvGxqbWZ3Lfg&usqp=CAU" width="159px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ9kJl-IL3viOoMuXVg8LcL-y-vGFY3pNzQ&usqp=CAU" width="129px">
+<img src="https://i.ytimg.com/vi/r1Iygf-rRdE/maxresdefault.jpg" width="159px">
+
 
 ## Test Engineeer rules<br />
 ![AS/400](images/test.png)
