@@ -1,12 +1,17 @@
 <h3> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙 </h3>
 
 <h2> Sobre mim  </h2>
-Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.
+Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br /><br />
 
-<h2> Tech rules  </h2>
-![Office](./images/image-20210829133813499.png)
+##Full stack new rules<br />
+![Python](images/image-20211113122258724.png)
+![NodeJS](images/image-20211113125026184.png)
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">
+![HTML](images/image-20211113125410000.png)
+![CSS](images/image-20211113125511569.png)
 
-####Estudant rules
+##Support Technician rules<br />
+![Office](images/image-20210829133813499.png)
 
 
 
