@@ -45,36 +45,9 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">
 
-
-
-
-
-
-
-
- ##### Heart of Gold spaceship
-| | | |
+| | **Skills**| |
 | :---: |  :---: |  :---: |
-|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=VagnerBellacosa&show_icons=true) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-##### Armory weapons stat
-| | | |
-| :---: |  :---: |  :---: |
-|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerBellacosa&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-
-
-| | **My Sidereal Activities**    | |
-| :---: | :---: | :---: |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=VagnerBellacosa&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| | | |
-
-| | **My Wakatime**    | |
-| :---: | :---: | :---: |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  <img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=@1e79a819-2e9c-42f8-bec7-0907c53ccc9f&hide_border=true&theme=yeblu&langs_count=20&layout=compact&v2" /> | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | 
-| | | |
-
-</center>
+|  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGeras&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 ```Trabalho
 Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. Abraço.
