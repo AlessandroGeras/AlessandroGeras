@@ -1,10 +1,10 @@
-<h2> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙 </h2>
+<h2> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada problema superado é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙 </h2>
 
 <h3> Sobre mim  </h3>
 
 Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br />
 
-##Full stack new rules<br />
+## Full stack new rules<br />
 ![Python](images/image-20211113122258724.png)
 ![NodeJS](images/image-20211113125026184.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">
@@ -14,22 +14,22 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 ![Github](images/image-20211113232623950.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">
 
-##Network Admin rules<br />
+## Network Admin rules<br />
 ![AS/400](images/image-20211113214545596.png)
 <img src="https://images-na.ssl-images-amazon.com/images/I/51wrfkuAg-L._SX397_BO1,204,203,200_.jpg" width="39px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qffg7ARDlaUenP5Xwffriq2rDJxUd6SsuabUl0wW9W-GXlUwmS9lxve6f359IelNQ8&usqp=CAU" width="85px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6KhvfJrLNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">
 
-##Support Technician rules<br />
+## Support Technician rules<br />
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20210829133813499.png" width="54px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">
 ![Windows](images/image-20211113213944803.png)
 
-##Test Engineer Rules<br />
+## Test Engineer Rules<br />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7j6wEE5WUZZK9_gMSxgZCmBo89EV9zS0aw&usqp" width="59px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp" width="69px">
 
-##Tech Teacher Rules<br />
+## Tech Teacher Rules<br />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhmEfOgZb2wCQvDUKer8OUeD0WIVB_OASdQ&usqp=CAU" width="119px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/manutencao.jpeg" width="90px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16D_IzjWs38RV67p33vKnU7MJ4rqsII6b0g&usqp=CAU" width="59px">
