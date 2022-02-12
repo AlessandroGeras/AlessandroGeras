@@ -4,7 +4,7 @@
 
 Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br />
 
-## Full stack new rules<br />
+## Full stack rules<br />
 ![Python](images/image-20211113122258724.png)
 ![NodeJS](images/image-20211113125026184.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">
@@ -13,6 +13,7 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113130529335.png" width="59px">
 ![Github](images/image-20211113232623950.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv6DDHRpfs9VM8CPl8KQkjjQ48BVPNMlRvQ&usqp=CAU" width="99px">
 
 ## Test Engineeer rules<br />
 ![AS/400](images/test.png)
@@ -44,6 +45,10 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/premiere.png" width="59x">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">
+
+## Main Employers<br />
+![HP](images/hp.png)
+
 
 | | **Skills**| |
 | :---: |  :---: |  :---: |
