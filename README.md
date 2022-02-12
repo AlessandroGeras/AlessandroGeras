@@ -63,6 +63,11 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGeras&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
+
+|**Bootcamp** | **Skills**| **Carga Horária** |
+| :---: |  :---: |  :---: |
+|  Inter | JS <br />NodeJS <br /> SQL <br /> ReactJS|  99 Horas |
+
 ```Trabalho
 Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. Abraço.
 ```
