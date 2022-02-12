@@ -18,6 +18,7 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqpzok9nuKWg8XunUpmlgr9dvGxqbWZ3Lfg&usqp=CAU" width="159px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ9kJl-IL3viOoMuXVg8LcL-y-vGFY3pNzQ&usqp=CAU" width="129px">
 <img src="https://i.ytimg.com/vi/r1Iygf-rRdE/maxresdefault.jpg" width="159px">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xNN3N2qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfeb29tti4oe0efwgu65.jpeg" width="209px">
 
 
 ## Test Engineeer rules<br />
