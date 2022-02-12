@@ -1,4 +1,7 @@
-## Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙
+### Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada dificuldade superada é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo 🤙
+
+#### Sobre mim
+Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.
 
 ####Tech rules
 ![Office](images/image-20210829133813499.png)
