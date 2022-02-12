@@ -21,15 +21,12 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6KhvfJrLNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">
 
 ## Support Technician rules<br />
+![Windows](images/image-20211113213944803.png)
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20210829133813499.png" width="54px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">
-![Windows](images/image-20211113213944803.png)
-
-## Test Engineer Rules<br />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7j6wEE5WUZZK9_gMSxgZCmBo89EV9zS0aw&usqp" width="59px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp" width="69px">
 
 ## Tech Teacher Rules<br />
+![Windows](images/robotics.png)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhmEfOgZb2wCQvDUKer8OUeD0WIVB_OASdQ&usqp=CAU" width="119px">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/manutencao.jpeg" width="90px">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16D_IzjWs38RV67p33vKnU7MJ4rqsII6b0g&usqp=CAU" width="59px">
@@ -43,6 +40,7 @@ Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-prof
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/dw.png" width="59x">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/premiere.png" width="59x">
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">
+
 
 
 
