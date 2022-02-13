@@ -2,7 +2,11 @@
 
 <h3> Sobre mim  </h3>
 
-Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br />
+Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. A minha meta agora é trilhar os passos para ser um desenvolvedor full-stack.<br />
+
+```Atualmente
+Atualmente estudando Redux.
+```
 
 ## Full stack rules<br />
 ![Python](images/image-20211113122258724.png)
