@@ -5,7 +5,12 @@
 Ex-técnico de suporte nível 2, ex-administrador de redes e servidores, ex-professor de tecnologia, ex-engenheiro de testes de software. A minha meta agora é trilhar os passos para ser um desenvolvedor full-stack.<br />
 
 ```Atualmente
-Atualmente estudando Redux.
+Atualmente estudando Redux. 13/02
+
+***Atualização - 14/02
+Finalmente entendi o Redux com um projeto bem simples.
+Minha meta pessoal é criar um projeto modesto com Redux.
+Caso tenha sucesso vou fazer um projeto mais ambicioso para testar se a tecnologia foi bem entendida. Vamos a luta***
 ```
 
 ## Full stack rules<br />
