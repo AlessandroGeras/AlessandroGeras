@@ -5,12 +5,11 @@
 Ex-administrador de redes e servidores, ex-técnico de suporte nível 2, ex-engenheiro de testes de software, ex-professor de tecnologia. A minha meta agora é trilhar os passos para ser um desenvolvedor full-stack.<br />
 
 ```Atualmente
-Atualmente estudando Redux. 13/02
+15/02
+Finalmente entendi o Redux. Desculpa não ter lhe aprendido antes Redux, você foi complicado de aprender mas agora te amo.
+I miss you Redux.
 
-***Atualização - 14/02
-Finalmente entendi o Redux com um projeto bem simples.
-Minha meta pessoal é criar um projeto modesto com Redux.
-Caso tenha sucesso vou fazer um projeto mais ambicioso para testar se a tecnologia foi bem entendida. Vamos a luta***
+Atualmente criando o projeto Jogo da Memória Genius para o bootcamp Eduzz. Vamos a luta.
 ```
 
 ## Full stack rules<br />
