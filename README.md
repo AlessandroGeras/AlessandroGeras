@@ -2,7 +2,7 @@
 
 <h3> Sobre mim  </h3>
 
-Ex-administrador de redes e servidores, ex-técnico de suporte nível 2, ex-engenheiro de testes de software, ex-professor de tecnologia. A minha meta agora é trilhar os passos para ser um desenvolvedor full-stack.<br />
+Ex-administrador de redes e servidores, ex-técnico de suporte nível 2, ex-engenheiro de testes de software, ex-professor de tecnologia. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br />
 
 ```Atualmente
 15/02
