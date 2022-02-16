@@ -13,21 +13,21 @@ Atualmente criando o projeto Jogo da Memória Genius para o bootcamp Eduzz. Vamo
 ```
 
 ## Full stack rules<br />
-![Python](images/image-20211113122258724.png)
-![NodeJS](images/image-20211113125026184.png)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrHGe-GRedxM5chPDm6AplC0X2gHxvDg4hQ&usqp=CAU" width="85px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">
-![HTML](images/image-20211113125410000.png)
-![CSS](images/image-20211113125511569.png)
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113130529335.png" width="59px">
-![Github](images/image-20211113232623950.png)
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv6DDHRpfs9VM8CPl8KQkjjQ48BVPNMlRvQ&usqp=CAU" width="99px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqpzok9nuKWg8XunUpmlgr9dvGxqbWZ3Lfg&usqp=CAU" width="159px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ9kJl-IL3viOoMuXVg8LcL-y-vGFY3pNzQ&usqp=CAU" width="129px">
-<img src="https://i.ytimg.com/vi/r1Iygf-rRdE/maxresdefault.jpg" width="159px">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xNN3N2qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfeb29tti4oe0efwgu65.jpeg" width="209px">
-<img src="https://quintagroup.com/services/web-design/responsive-website-design.png" width="159px">
+![Python](images/image-20211113122258724.png)Python
+![NodeJS](images/image-20211113125026184.png)NodeJS
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrHGe-GRedxM5chPDm6AplC0X2gHxvDg4hQ&usqp=CAU" width="85px">Api Rest
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">ReactJS
+![HTML](images/image-20211113125410000.png)HTML
+![CSS](images/image-20211113125511569.png)CSS
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113130529335.png" width="59px">Visual Code
+![Github](images/image-20211113232623950.png)Github
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">Javascript
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv6DDHRpfs9VM8CPl8KQkjjQ48BVPNMlRvQ&usqp=CAU" width="99px">SQLite
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqpzok9nuKWg8XunUpmlgr9dvGxqbWZ3Lfg&usqp=CAU" width="159px">JWT & Express
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ9kJl-IL3viOoMuXVg8LcL-y-vGFY3pNzQ&usqp=CAU" width="129px">Sequelize
+<img src="https://i.ytimg.com/vi/r1Iygf-rRdE/maxresdefault.jpg" width="159px">Bcrypt & Hash
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xNN3N2qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfeb29tti4oe0efwgu65.jpeg" width="209px">Regex
+<img src="https://quintagroup.com/services/web-design/responsive-website-design.png" width="159px">Mobile Responsive
 
 
 ## Test Engineeer rules<br />
