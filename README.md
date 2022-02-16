@@ -31,20 +31,20 @@ Atualmente criando o projeto Jogo da Memória Genius para o bootcamp Eduzz. Vamo
 
 
 ## Test Engineeer rules<br />
-![AS/400](images/test.png)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp=CAU" width="59px">
+![AS/400](images/test.png)Software Testing Concepts and Cycles
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp=CAU" width="59px">Rational Software
 
 ## Network Admin rules<br />
-![AS/400](images/image-20211113214545596.png)
-<img src="https://images-na.ssl-images-amazon.com/images/I/51wrfkuAg-L._SX397_BO1,204,203,200_.jpg" width="39px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qffg7ARDlaUenP5Xwffriq2rDJxUd6SsuabUl0wW9W-GXlUwmS9lxve6f359IelNQ8&usqp=CAU" width="85px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6KhvfJrLNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">
-<img src="https://piso.org.br/wordpress/wp-content/uploads/2017/11/itil.png" width="55px">
+![AS/400](images/image-20211113214545596.png)AS/400
+<img src="https://images-na.ssl-images-amazon.com/images/I/51wrfkuAg-L._SX397_BO1,204,203,200_.jpg" width="39px">Network Essentials
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qffg7ARDlaUenP5Xwffriq2rDJxUd6SsuabUl0wW9W-GXlUwmS9lxve6f359IelNQ8&usqp=CAU" width="85px">Linux
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6KhvfJrLNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">Windows Server
+<img src="https://piso.org.br/wordpress/wp-content/uploads/2017/11/itil.png" width="55px">ITIL
 
 ## Support Technician rules<br />
-![Windows](images/image-20211113213944803.png)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">
+![Windows](images/image-20211113213944803.png)Windows
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">Office
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">DOS
 
 ## Tech Teacher Rules<br />
 ![Windows](images/ro.png)
