@@ -47,25 +47,25 @@ Atualmente criando o projeto Jogo da Memória Genius para o bootcamp Eduzz. Vamo
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">DOS
 
 ## Tech Teacher Rules<br />
-![Windows](images/ro.png)
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/manutencao.jpeg" width="90px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16D_IzjWs38RV67p33vKnU7MJ4rqsII6b0g&usqp=CAU" width="59px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4dE8nrbQwNZptX8nH6W9QtMzRLFVxl1uUg&usqp=CAU" width="99px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyqU7EUINulzWSRBmd5ESiuOMikKKlj0rgA&usqp=CAU" width="85px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/photoshop.png" width="59px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/indesign.png" width="59px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/fireworks.jpeg" width="59px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/illustrator.png" width="59px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/flash.jpeg" width="59px">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/dw.png" width="59x">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/premiere.png" width="59x">
-<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">
+![Robótica](images/ro.png)Robótica
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/manutencao.jpeg" width="90px">Manutenção & Hardware
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16D_IzjWs38RV67p33vKnU7MJ4rqsII6b0g&usqp=CAU" width="59px">Unity
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX4dE8nrbQwNZptX8nH6W9QtMzRLFVxl1uUg&usqp=CAU" width="99px">Youtube
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxyqU7EUINulzWSRBmd5ESiuOMikKKlj0rgA&usqp=CAU" width="85px">CorelDraw
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/photoshop.png" width="59px">Photoshop
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/indesign.png" width="59px">Indesign
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/fireworks.jpeg" width="59px">Fireworks
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/illustrator.png" width="59px">Illustrator
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/flash.jpeg" width="59px">Flash
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/dw.png" width="59x">DreamWeaver
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/premiere.png" width="59x">Premier
+<img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">After Effects
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">Office
 
 ## Main Employers<br />
-![HP](images/hp1.png)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2up5dUHXjboKSvgMkFLM4iPt2W_S9FlMyrQ&usqp=CAU" width="89x">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpqatqiwWmAUtEapEQy1-wCBoVIKrDdsmTg&usqp=CAU" width="67x">
+![HP](images/hp1.png)HP
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2up5dUHXjboKSvgMkFLM4iPt2W_S9FlMyrQ&usqp=CAU" width="89x">Coca-Cola
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpqatqiwWmAUtEapEQy1-wCBoVIKrDdsmTg&usqp=CAU" width="67x">Microlins
 
 
 | | **Skills**| |
