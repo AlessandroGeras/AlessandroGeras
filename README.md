@@ -5,11 +5,12 @@
 Ex-administrador de redes e servidores, ex-técnico de suporte nível 2, ex-engenheiro de testes de software, ex-professor de tecnologia. Atualmente trilhando os passos para ser um desenvolvedor full-stack.<br />
 
 ```Atualmente
+17/02
+Criando o segundo projeto do bootcamp Eduzz. Vamos a luta.
+
 15/02
 Finalmente entendi o Redux. Desculpa não ter lhe aprendido antes Redux, você foi complicado de aprender mas agora te amo.
 I miss you Redux.
-
-Atualmente criando o projeto Jogo da Memória Genius para o bootcamp Eduzz. Vamos a luta.
 ```
 
 ## Full stack rules<br />
