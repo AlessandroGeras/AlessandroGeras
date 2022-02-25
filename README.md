@@ -76,9 +76,9 @@ I miss you Redux.
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGeras&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 
-|**Bootcamp** | **Skills**| **Carga Horária** |
-| :---: |  :---: |  :---: |
-|  Inter | JS <br />NodeJS <br /> SQL <br /> ReactJS|  99 Horas |
+|**Bootcamp** | **Skills**| **Carga Horária** |**Certificado**|
+| :---: |  :---: |  :---: |  :---: |
+|  Inter | JS <br />NodeJS <br /> SQL <br /> ReactJS|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
 
 ```Trabalho
 Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. Abraço.
