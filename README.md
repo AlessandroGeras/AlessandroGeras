@@ -30,6 +30,7 @@ I miss you Redux.
 <img src="https://i.ytimg.com/vi/r1Iygf-rRdE/maxresdefault.jpg" width="159px">Bcrypt & Hash
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xNN3N2qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfeb29tti4oe0efwgu65.jpeg" width="209px">Regex
 <img src="https://quintagroup.com/services/web-design/responsive-website-design.png" width="159px">Mobile Responsive
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RQF7UfFs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ucc7xyvobyaypil1b77.jpg" width="129px">React Icons
 
 
 ## Test Engineeer rules<br />
