@@ -11,7 +11,7 @@ Criando o segundo projeto do bootcamp Eduzz. Vamos a luta.
 15/02
 Finalmente entendi o Redux.
 Desculpa não ter lhe aprendido antes Redux, você foi complicado de aprender mas agora te amo.
-I miss you Redux.
+I miss you Redux. 
 ```
 
 ## Full stack rules<br />
