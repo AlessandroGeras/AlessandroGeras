@@ -3,14 +3,11 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 
 <h4> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada problema superado é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo</h4><br />
 
-```Atualmente
-21/02
-Criando o segundo projeto do bootcamp Eduzz. Vamos a luta.
+```
+Atualizações
 
-15/02
-Finalmente entendi o Redux.
-Desculpa não ter lhe aprendido antes Redux, você foi complicado de aprender mas agora te amo.
-I miss you Redux. 
+04/03
+Projeto Curriculum concluído.
 ```
 
 ## Full stack rules<br />
