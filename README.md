@@ -1,4 +1,4 @@
-<h2> 👉👉👉 <a href="https://alessandrogeras.github.io/Curriculum" target="_blank">Curriculum Vitae - Todos Meus Projetos Online e Certificações</a> 👀👀👀</h2>
+<h2> 👉👉👉 <a href="https://alessandrogeras.github.io/Curriculum">Curriculum Vitae - Todos Meus Projetos Online e Certificações</a> 👀👀👀</h2>
 Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se quiser me contatar, pode me acionar pelo Linkedin.<br /><br />
 
 <h4> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada problema superado é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo</h4><br />
