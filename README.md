@@ -11,7 +11,6 @@ Nova Certificação - MongoDB
 ```
 
 ## Full stack rules<br />
-![Python](images/image-20211113122258724.png)Python
 ![NodeJS](images/image-20211113125026184.png)NodeJS
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrHGe-GRedxM5chPDm6AplC0X2gHxvDg4hQ&usqp=CAU" width="85px">Api Rest
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/reactjs.png" width="69px">ReactJS
@@ -29,6 +28,7 @@ Nova Certificação - MongoDB
 <img src="https://quintagroup.com/services/web-design/responsive-website-design.png" width="159px">Mobile Responsive
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RQF7UfFs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ucc7xyvobyaypil1b77.jpg" width="129px">React Icons
 <img src="https://i.morioh.com/210119/4aff2bd0.webp" width="129px">Axios
+![Python](images/image-20211113122258724.png)Python
 
 
 ## Test Engineeer rules<br />
