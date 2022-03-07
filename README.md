@@ -7,7 +7,7 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 Atualizações
 
 07/03
-Nova Certificação = MongoDB
+Nova Certificação - MongoDB
 ```
 
 ## Full stack rules<br />
