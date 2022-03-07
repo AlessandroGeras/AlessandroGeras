@@ -6,8 +6,8 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
-04/03
-Projeto Curriculum concluído.
+07/03
+Nova Certificação = MongoDB
 ```
 
 ## Full stack rules<br />
@@ -21,8 +21,9 @@ Projeto Curriculum concluído.
 ![Github](images/image-20211113232623950.png)Github
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113234134511.png" width="49px">Javascript
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpv6DDHRpfs9VM8CPl8KQkjjQ48BVPNMlRvQ&usqp=CAU" width="99px">SQLite
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqpzok9nuKWg8XunUpmlgr9dvGxqbWZ3Lfg&usqp=CAU" width="159px">JWT & Express
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQ9kJl-IL3viOoMuXVg8LcL-y-vGFY3pNzQ&usqp=CAU" width="129px">Sequelize
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrk3CoKA9O3tEdfksRDVK4k3SnxOR13_gg3A&usqp=CAU" width="99px">MongoDB
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqpzok9nuKWg8XunUpmlgr9dvGxqbWZ3Lfg&usqp=CAU" width="159px">JWT & Express
 <img src="https://i.ytimg.com/vi/r1Iygf-rRdE/maxresdefault.jpg" width="159px">Bcrypt & Hash
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xNN3N2qj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfeb29tti4oe0efwgu65.jpeg" width="209px">Regex
 <img src="https://quintagroup.com/services/web-design/responsive-website-design.png" width="159px">Mobile Responsive
