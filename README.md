@@ -6,8 +6,8 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
-07/03
-Nova Certificação - MongoDB
+09/03
+Criando projeto encurtador de url para o bootcamp Eduzz
 ```
 
 ## Full stack rules<br />
@@ -28,6 +28,7 @@ Nova Certificação - MongoDB
 <img src="https://quintagroup.com/services/web-design/responsive-website-design.png" width="159px">Mobile Responsive
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RQF7UfFs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ucc7xyvobyaypil1b77.jpg" width="129px">React Icons
 <img src="https://i.morioh.com/210119/4aff2bd0.webp" width="129px">Axios
+<img src="https://miro.medium.com/max/1000/1*BFoC90U7sk6Tn9KGeabX6w.png" width="129px">Axios
 ![Python](images/image-20211113122258724.png)Python
 
 
@@ -38,8 +39,7 @@ Nova Certificação - MongoDB
 ## Network Admin rules<br />
 ![AS/400](images/image-20211113214545596.png)AS/400
 <img src="https://images-na.ssl-images-amazon.com/images/I/51wrfkuAg-L._SX397_BO1,204,203,200_.jpg" width="39px">Network Essentials
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qffg7ARDlaUenP5Xwffriq2rDJxUd6SsuabUl0wW9W-GXlUwmS9lxve6f359IelNQ8&usqp=CAU" width="85px">Linux
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL6KhvfJrLNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">Windows Server
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qhttps://miro.medium.com/max/1000/1*BFoC90U7sk6Tn9KGeabX6w.pngNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">Windows Server
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKmB9Zu9PF_BAlRpQ1a2Xm2vEy0TNN75PMu5YfUWlsWxF7kTKmCVD8g9L9z6lqm94TCE&usqp=CAU" width="55px">ITIL
 
 ## Support Technician rules<br />
