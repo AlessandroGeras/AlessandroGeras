@@ -6,7 +6,7 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
-09/03
+10/03
 Criando projeto encurtador de url para o bootcamp Eduzz
 ```
 
