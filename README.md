@@ -6,8 +6,8 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
-10/03
-Criando projeto encurtador de url para o bootcamp Eduzz
+14/03
+Criado projeto encurtador de url para o bootcamp Eduzz
 ```
 
 ## Full stack rules<br />
