@@ -6,8 +6,8 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
-16/03
-Finalmente aprendendo Docker, uma das tecnologias mais desejadas por mim!!!
+19/03
+Docker aprendido!!! Agora bora para a última atividade para concluir o bootcamp Eduzz
 ```
 
 ## Full stack rules<br />
