@@ -13,6 +13,7 @@ Docker aprendido!!! Agora bora para a última atividade para concluir o bootcamp
 ## Full stack rules<br />
 ![NodeJS](images/image-20211113125026184.png)NodeJS
 <img src="https://miro.medium.com/max/336/0*rmv6pZTW2hfP2XYd.png" width="85px">Docker
+<img src="https://t.ctcdn.com.br/eHmBjfca_uBY6QBshhapIl-0LWo=/0x220:900x727/900x506/smart/filters:format(webp)/i544346.jpeg" width="120px">AWS
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--k4vCWq_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zv2toqc1oa1zv6uhugui.png" width="150px">SCRUM
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wePMTOln--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cfzcosmrlq7oo4yekrgo.png" width="160px">TypeScript
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrHGe-GRedxM5chPDm6AplC0X2gHxvDg4hQ&usqp=CAU" width="85px">Api Rest
