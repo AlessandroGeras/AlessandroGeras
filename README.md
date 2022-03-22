@@ -6,8 +6,8 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
-19/03
-Docker aprendido!!! Agora bora para a última atividade para concluir o bootcamp Eduzz
+22/03
+Finalizado outro Bootcamp e alcançado o perfil Hero na Digital Innovation, o mais alto da comunidade. Parabéns =D
 ```
 
 ## Full stack rules<br />
