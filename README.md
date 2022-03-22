@@ -80,7 +80,8 @@ Docker aprendido!!! Agora bora para a última atividade para concluir o bootcamp
 
 |**Bootcamp** | **Skills**| **Carga Horária** |**Certificado**|
 | :---: |  :---: |  :---: |  :---: |
-|  Inter | JS <br />NodeJS <br /> SQL <br /> ReactJS|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
+|  Inter | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> SCRUM|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
+|  Eduzz | TypeScript <br />NodeJS <br /> Mongo <br /> ReactJS <br /> DOCKER <BR /> AWS <br /> SCRUM|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/1DD74DD4.jpg" width="110"> |
 
 ```Trabalho
 Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. Abraço.
