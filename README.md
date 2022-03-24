@@ -6,8 +6,8 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
-22/03
-Finalizado outro Bootcamp e alcançado o perfil Hero na Digital Innovation, o mais alto da comunidade. Parabéns =D
+24/03
+Iniciado o bootcamp Impulso, meu terceiro =D
 ```
 
 ## Full stack rules<br />
