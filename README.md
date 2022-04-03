@@ -6,6 +6,9 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
+03/04
+Metade do bootcamp concluído. Cada vez mais rápido =D
+
 24/03
 Iniciado o bootcamp Impulso, meu terceiro =D
 ```
