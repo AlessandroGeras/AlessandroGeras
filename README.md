@@ -6,6 +6,9 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 ```
 Atualizações
 
+18/04
+Início das aulas da Blusoft/Fapesc.
+
 15/04
 Consegui uma bolsa de estudos em PHP pela Blusoft/Fapesc com carga horária de 480 horas entre 11 mil candidatos. 
 Fiquei em 4ª lugar. Uma grande vitória. Correndo atrás da minha 24° certificação do Linkedin. Agora rumo ao sucesso.
