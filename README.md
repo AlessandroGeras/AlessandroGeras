@@ -5,6 +5,9 @@ Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se 
 
 ```
 Atualizações
+26/04
+Primeira aula prática de Scrum e de Kanban. Show.
+Já perdi uma contratação por não ter experiência real em SCRUM, apesar de ter certificação teórica. Vamos a luta.
 
 18/04
 Início das aulas da Blusoft/Fapesc.
