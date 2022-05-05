@@ -9,9 +9,6 @@ Atualizações
 05/04
 Semana que vem finalmente vou terminar meu terceiro bootcamp.
 
-04/04
-Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc sobre Licença de Software, no intuito de ajudar todas as turmas do projeto Entra21 neste quesito. Ficou show.
-
 26/04
 Primeira aula prática de SCRUM e de KANBAN. Show.
 Já perdi uma contratação por não ter experiência real em SCRUM, apesar de ter certificação teórica. Vamos a luta.
@@ -29,6 +26,13 @@ Aprendendo .NET
 03/04
 Metade do bootcamp concluído. Cada vez mais rápido =D
 ```
+
+
+## Articles<br />
+04/04/2022 <br />
+Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc sobre Licença de Software, no intuito de ajudar todas as turmas do projeto Entra21 neste quesito. Ficou show. <br /><br />
+[Ver apresentação online sobre Licença de Software feito por mim](https://docs.google.com/presentation/d/1Arg79wKodHYKoFvcjmnK74bU9vRiDfXCYKYXTDlNmqo)
+
 
 ## Full stack rules<br />
 ![NodeJS](images/image-20211113125026184.png)NodeJS
