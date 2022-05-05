@@ -31,7 +31,7 @@ Metade do bootcamp concluído. Cada vez mais rápido =D
 ## Articles<br />
 04/04/2022 <br />
 Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc sobre Licença de Software, no intuito de ajudar todas as turmas do projeto Entra21 neste quesito. Ficou show. <br /><br />
-[Ver apresentação online sobre Licença de Software feito por mim](https://docs.google.com/presentation/d/1Arg79wKodHYKoFvcjmnK74bU9vRiDfXCYKYXTDlNmqo)
+[Ver apresentação online sobre Licença de Software](https://docs.google.com/presentation/d/1Arg79wKodHYKoFvcjmnK74bU9vRiDfXCYKYXTDlNmqo)
 
 
 ## Full stack rules<br />
