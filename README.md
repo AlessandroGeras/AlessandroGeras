@@ -28,7 +28,7 @@ Metade do bootcamp concluído. Cada vez mais rápido =D
 ```
 
 <details open>
-<summary>Índice</summary> <a name="indice"></a>
+<summary>Summary</summary> <a name="summary"></a>
 
 * [Articles](#articles)
 * [Full stack rules](#full_stack)
@@ -48,7 +48,7 @@ Metade do bootcamp concluído. Cada vez mais rápido =D
 Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc sobre Licença de Software, no intuito de ajudar todas as turmas do projeto Entra21 neste quesito. Ficou show. <br /><br />
 [Ver apresentação online sobre Licença de Software](https://docs.google.com/presentation/d/1Arg79wKodHYKoFvcjmnK74bU9vRiDfXCYKYXTDlNmqo)
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 
 ## Full stack rules<br /> <a name="full_stack"></a>
@@ -78,14 +78,14 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 <img src="https://miro.medium.com/max/1000/1*BFoC90U7sk6Tn9KGeabX6w.png" width="129px">Axios
 ![Python](images/image-20211113122258724.png)Python
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 
 ## Test Engineer rules<br /> <a name="test_engineer"></a>
 ![AS/400](images/test.png)Software Testing Concepts and Cycles
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp=CAU" width="59px">Rational Software
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 ## Network Admin rules<br /> <a name="network_admin"></a>
 ![AS/400](images/image-20211113214545596.png)AS/400
@@ -93,14 +93,14 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qhttps://miro.medium.com/max/1000/1*BFoC90U7sk6Tn9KGeabX6w.pngNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">Windows Server
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKmB9Zu9PF_BAlRpQ1a2Xm2vEy0TNN75PMu5YfUWlsWxF7kTKmCVD8g9L9z6lqm94TCE&usqp=CAU" width="55px">ITIL
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 ## Support Technician rules<br /> <a name="support_technician"></a>
 ![Windows](images/image-20211113213944803.png)Windows
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">Office
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">DOS
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 ## Tech Teacher Rules<br /> <a name="tech_teacher"></a>
 ![Robótica](images/ro.png)Robótica
@@ -118,21 +118,21 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">After Effects
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">Office
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 ## Main Employers<br /> <a name="main_employers"></a>
 ![HP](images/hp1.png)HP
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2up5dUHXjboKSvgMkFLM4iPt2W_S9FlMyrQ&usqp=CAU" width="89x">Coca-Cola
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpqatqiwWmAUtEapEQy1-wCBoVIKrDdsmTg&usqp=CAU" width="67x">Microlins
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 ## Skills<br /> <a name="skills"></a>
 | | **Skills**| | 
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGeras&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-[Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
 ## Bootcamps<br /> <a name="bootcamps"></a>
 |**Bootcamp** | **Skills**| **Carga Horária** |**Certificado**| 
@@ -140,7 +140,7 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 |  Inter | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> SCRUM|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
 |  Eduzz | TypeScript <br />NodeJS <br /> Mongo <br /> ReactJS <br /> Docker <BR /> AWS <br /> SCRUM|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/1DD74DD4.jpg" width="110">
 
-[Voltar ao indice](#indice)|
+[Voltar ao summary](#summary)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroGeras&hide=stars,issues,contribs&count_private=true&show_icons=true)
 
@@ -151,5 +151,5 @@ Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. A
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrogeras/) <br />
  [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrogeras@gmail.com) 
  
- [Voltar ao indice](#indice)
+[Voltar ao summary](#summary)
 
