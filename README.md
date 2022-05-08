@@ -109,6 +109,9 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 |  Inter | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> SCRUM|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
 |  Eduzz | TypeScript <br />NodeJS <br /> Mongo <br /> ReactJS <br /> Docker <BR /> AWS <br /> SCRUM|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/1DD74DD4.jpg" width="110"> |
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroGeras&hide=stars,issues,contribs&count_private=true&show_icons=true)
+
 ```Trabalho
 Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. Abraço.
 ```
+
