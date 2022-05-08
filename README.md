@@ -27,14 +27,31 @@ Aprendendo .NET
 Metade do bootcamp concluído. Cada vez mais rápido =D
 ```
 
+<details open>
+<summary>Índice</summary> <a name="indice"></a>
 
-## Articles<br />
+* [Articles](#articles)
+* [Full stack rules](#full_stack)
+* [Test Engineeer rules](#test_engineer)
+* [Network Admin rules](#network_admin)
+* [Support Technician rules](#support_technician)
+* [Tech Teacher Rules](#tech_teacher)
+* [Main Employers](#main_employers)
+* [Skills](#skills)
+* [Bootcamps](#bootcamps)
+* [Contact](#contact)
+  
+</details>
+
+## Articles<br /> <a name="articles"></a>
 04/04/2022 <br />
 Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc sobre Licença de Software, no intuito de ajudar todas as turmas do projeto Entra21 neste quesito. Ficou show. <br /><br />
 [Ver apresentação online sobre Licença de Software](https://docs.google.com/presentation/d/1Arg79wKodHYKoFvcjmnK74bU9vRiDfXCYKYXTDlNmqo)
 
+[Voltar ao indice](#indice)
 
-## Full stack rules<br />
+
+## Full stack rules<br /> <a name="full_stack"></a>
 ![NodeJS](images/image-20211113125026184.png)NodeJS
 <img src="https://miro.medium.com/max/336/0*rmv6pZTW2hfP2XYd.png" width="85px">Docker
 <img src="https://t.ctcdn.com.br/eHmBjfca_uBY6QBshhapIl-0LWo=/0x220:900x727/900x506/smart/filters:format(webp)/i544346.jpeg" width="120px">AWS
@@ -61,23 +78,31 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 <img src="https://miro.medium.com/max/1000/1*BFoC90U7sk6Tn9KGeabX6w.png" width="129px">Axios
 ![Python](images/image-20211113122258724.png)Python
 
+[Voltar ao indice](#indice)
 
-## Test Engineeer rules<br />
+
+## Test Engineer rules<br /> <a name="test_engineer"></a>
 ![AS/400](images/test.png)Software Testing Concepts and Cycles
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXzLf6XO-50SPLY9vYYGv60OIlvwf_YLxjA&usqp=CAU" width="59px">Rational Software
 
-## Network Admin rules<br />
+[Voltar ao indice](#indice)
+
+## Network Admin rules<br /> <a name="network_admin"></a>
 ![AS/400](images/image-20211113214545596.png)AS/400
 <img src="https://images-na.ssl-images-amazon.com/images/I/51wrfkuAg-L._SX397_BO1,204,203,200_.jpg" width="39px">Network Essentials
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy2qhttps://miro.medium.com/max/1000/1*BFoC90U7sk6Tn9KGeabX6w.pngNCnObHq9ikLKK2QLVJVSU5ypxw&usqp=CAU" width="175px">Windows Server
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiKmB9Zu9PF_BAlRpQ1a2Xm2vEy0TNN75PMu5YfUWlsWxF7kTKmCVD8g9L9z6lqm94TCE&usqp=CAU" width="55px">ITIL
 
-## Support Technician rules<br />
+[Voltar ao indice](#indice)
+
+## Support Technician rules<br /> <a name="support_technician"></a>
 ![Windows](images/image-20211113213944803.png)Windows
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">Office
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/image-20211113213905917.png" width="39px">DOS
 
-## Tech Teacher Rules<br />
+[Voltar ao indice](#indice)
+
+## Tech Teacher Rules<br /> <a name="tech_teacher"></a>
 ![Robótica](images/ro.png)Robótica
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/manutencao.jpeg" width="90px">Manutenção & Hardware
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR16D_IzjWs38RV67p33vKnU7MJ4rqsII6b0g&usqp=CAU" width="59px">Unity
@@ -93,25 +118,38 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 <img src="https://github.com/AlessandroGeras/AlessandroGeras/blob/main/images/aftereffects.png" width="59x">After Effects
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJHkOjZlqnTcS52gvJkl2uHfzug2SjhREDvw&usqp=CAU" width="110">Office
 
-## Main Employers<br />
+[Voltar ao indice](#indice)
+
+## Main Employers<br /> <a name="main_employers"></a>
 ![HP](images/hp1.png)HP
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2up5dUHXjboKSvgMkFLM4iPt2W_S9FlMyrQ&usqp=CAU" width="89x">Coca-Cola
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpqatqiwWmAUtEapEQy1-wCBoVIKrDdsmTg&usqp=CAU" width="67x">Microlins
 
+[Voltar ao indice](#indice)
 
-| | **Skills**| |
+## Skills<br /> <a name="skills"></a>
+| | **Skills**| | 
 | :---: |  :---: |  :---: |
 |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGeras&theme=blue-green) |  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
+[Voltar ao indice](#indice)
 
-|**Bootcamp** | **Skills**| **Carga Horária** |**Certificado**|
+## Bootcamps<br /> <a name="bootcamps"></a>
+|**Bootcamp** | **Skills**| **Carga Horária** |**Certificado**| 
 | :---: |  :---: |  :---: |  :---: |
 |  Inter | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> SCRUM|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
-|  Eduzz | TypeScript <br />NodeJS <br /> Mongo <br /> ReactJS <br /> Docker <BR /> AWS <br /> SCRUM|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/1DD74DD4.jpg" width="110"> |
+|  Eduzz | TypeScript <br />NodeJS <br /> Mongo <br /> ReactJS <br /> Docker <BR /> AWS <br /> SCRUM|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/1DD74DD4.jpg" width="110">
+
+[Voltar ao indice](#indice)|
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroGeras&hide=stars,issues,contribs&count_private=true&show_icons=true)
 
 ```Trabalho
 Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. Abraço.
 ```
+## Contact <a name="contact"></a>
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrogeras/) <br />
+ [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrogeras@gmail.com) 
+ 
+ [Voltar ao indice](#indice)
 
