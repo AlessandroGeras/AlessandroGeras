@@ -1,5 +1,9 @@
 <h2> 👉👉👉 <a href="https://alessandrogeras.github.io/Curriculum">Curriculum Vitae - Todos Meus Projetos Online e Certificações</a> 👀👀👀</h2>
-Caso tenha interesse, fique a vontade para dar uma olhada no meu curriculo e se quiser me contatar, pode me acionar pelo Linkedin.<br />
+Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, abaixo segue meus contatos<br /><br />
+
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrogeras/) <br />
+ [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrogeras@gmail.com) 
+ 
 
 <h4> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada problema superado é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo</h4><br />
 
@@ -39,7 +43,6 @@ Metade do bootcamp concluído. Cada vez mais rápido =D
 * [Main Employers](#main_employers)
 * [Skills](#skills)
 * [Bootcamps](#bootcamps)
-* [Contact](#contact)
   
 </details>
 
@@ -147,9 +150,5 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 ```Trabalho
 Trabalho em constante progresso. Visite-me de vez enquando para ver novidades. Abraço.
 ```
-## Contact <a name="contact"></a>
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrogeras/) <br />
- [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrogeras@gmail.com) 
- 
-[Voltar ao summary](#summary)
+
 
