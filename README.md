@@ -9,8 +9,10 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+10/05
+3º bootcamp concluído, Spread Fullstack Developer. Indo para o 4º. #Transbordando sabedoria.
 
-05/04
+05/05
 Semana que vem finalmente vou terminar meu terceiro bootcamp.
 
 26/04
@@ -23,12 +25,6 @@ Início das aulas da Blusoft/Fapesc.
 15/04
 Consegui uma bolsa de estudos em PHP pela Blusoft/Fapesc com carga horária de 480 horas entre 11 mil candidatos. 
 Fiquei em 4ª lugar. Uma grande vitória. Correndo atrás da minha 24° certificação do Linkedin. Agora rumo ao sucesso.
-
-12/04
-Aprendendo .NET
-
-03/04
-Metade do bootcamp concluído. Cada vez mais rápido =D
 ```
 
 <details open>
@@ -142,6 +138,7 @@ Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc 
 | :---: |  :---: |  :---: |  :---: |
 |  Inter | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> SCRUM|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
 |  Eduzz | TypeScript <br />NodeJS <br /> Mongo <br /> ReactJS <br /> Docker <BR /> AWS <br /> SCRUM|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/1DD74DD4.jpg" width="110">
+|  Spread | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> TypeScript|  98 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/505F0D51.jpg" width="110"> 
 
 [Voltar ao summary](#summary)
 
