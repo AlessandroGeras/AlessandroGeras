@@ -9,6 +9,11 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+12/05
+Baterias renovadas. Começando o meu 4º bootcamp, TQI FullStack Developer. Já estou ficando expert em bootcamps.
+Neste vou ver meus velhos amigos HTML/CSS, Javascript, ReactJS, SQL e QA.
+Tem amigos novos chegando =D Welcome to my future skills, Java and Spring.
+
 10/05
 3º bootcamp concluído, Spread Fullstack Developer. Indo para o 4º. #Transbordando sabedoria.
 
