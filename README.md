@@ -9,6 +9,9 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+19/05
+Mais da metade do bootcamp TQI concluído em apenas uma semana. Transbordando sabedoria.
+
 12/05
 Baterias renovadas. Começando o meu 4º bootcamp, TQI FullStack Developer. Já estou ficando expert em bootcamps.
 Neste vou ver meus velhos amigos HTML/CSS, Javascript, ReactJS, SQL e QA.
