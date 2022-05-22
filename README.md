@@ -17,18 +17,13 @@ O código foi bem comentado e elogiado 😍 e servirá de modelo para os demais 
 
 20/05
 Essa semana completa 6 meses que eu ingressei na Digital innovation.
-
 Foram tantas coisas aprendidas: Javascript, Typescript, NodeJS, ReactJS, Express, Api Rest, Bancos de Dados, AWS, Docker 
 e tantas outras tecnologias.
-
 Foram 65 certificados sobre Desenvolvimento, quase 10 projetos entregues, 23 testes de proficiência no Linkedin com sucesso
 e 3 Bootscamps.
-
 Agora está na hora de me importar menos com novas tecnologias a serem aprendidas e aperfeiçoar as já existentes.
-
 Em comemoração aos 6 meses de Dio, vou refatorar todos os meus projetos existentes. Vai dar trabalho mas o sucesso não ocorre
 por acaso.
-
 Vamos a luta 👊
 
 19/05
