@@ -9,6 +9,12 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+21/05
+Meu repositório Netflix foi refatorado. A performance do site foi melhorada consideravelmente fazendo uma refatoração do
+addEventListener do scroll que faz a checagem em tempo real do efeito fading da Navbar.
+Cada seção do site recebeu seu próprio CSS individual.
+O código foi bem comentado e elogiado 😍 e servirá de modelo para os demais projetos.
+
 20/05
 Essa semana completa 6 meses que eu ingressei na Digital innovation.
 
