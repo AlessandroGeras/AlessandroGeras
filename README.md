@@ -9,7 +9,7 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
-26/06
+26/05
 Entrei em um projeto open source para colaborar. Mais detalhes na seção abaixo, "Open Source Project".
 
 21/05
