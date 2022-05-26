@@ -9,6 +9,9 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+26/06
+Entrei em um projeto open source para colaborar. Mais detalhes na seção abaixo, "Open Source Project".
+
 21/05
 Meu repositório Netflix foi refatorado. A performance do site foi melhorada consideravelmente fazendo uma refatoração do
 addEventListener do scroll que faz a checagem em tempo real do efeito fading da Navbar.
@@ -40,6 +43,9 @@ Tem amigos novos chegando =D Welcome to my future skills, Java and Spring.
 05/05
 Semana que vem finalmente vou terminar meu terceiro bootcamp.
 
+04/05
+Criei um artigo sobre licenças de software. Mais detalhes na seção abaixo, "Articles".
+
 26/04
 Primeira aula prática de SCRUM e de KANBAN. Show.
 Já perdi uma contratação por não ter experiência real em SCRUM, apesar de ter certificação teórica. Vamos a luta.
@@ -56,6 +62,7 @@ Fiquei em 4ª lugar. Uma grande vitória. Correndo atrás da minha 24° certific
 <summary>Summary</summary> <a name="summary"></a>
 
 * [Articles](#articles)
+* [Projeto Open Source](#open_source)
 * [Full stack rules](#full_stack)
 * [Test Engineeer rules](#test_engineer)
 * [Network Admin rules](#network_admin)
@@ -68,9 +75,18 @@ Fiquei em 4ª lugar. Uma grande vitória. Correndo atrás da minha 24° certific
 </details>
 
 ## Articles<br /> <a name="articles"></a>
-04/04/2022 <br />
+04/05/2022 <br />
 Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc sobre Licença de Software, no intuito de ajudar todas as turmas do projeto Entra21 neste quesito. Ficou show. <br /><br />
 [Ver apresentação online sobre Licença de Software](https://docs.google.com/presentation/d/1Arg79wKodHYKoFvcjmnK74bU9vRiDfXCYKYXTDlNmqo)
+
+[Back to summary](#summary)
+
+## Open Source Project<br /> <a name="open_source"></a>
+26/05/2022 <br />
+É com orgulho que informo que comecei a participar de um projeto open source chamado "O Bom Professor", no qual o projeto tem foco na gestão do ensino com excelência.
+
+Convido a todos, a quem tiver interesse, ver o seguinte vídeo no qual temos mais detalhes e informações de contato para quem quiser participar. <br /><br />
+[Ver apresentação do projeto](https://www.youtube.com/watch?v=Gp7ntL1encQ&feature=share)
 
 [Back to summary](#summary)
 
