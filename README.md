@@ -9,6 +9,9 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+08/06
+Meu repositório Genius foi refatorado. Não houve mudanças de código mas houve uma documentação na parte do código em Javascript para facilitar a leitura por outros desenvolvedores.
+
 26/05
 Entrei em um projeto open source para colaborar. Mais detalhes na seção abaixo, "Open Source Project".
 
