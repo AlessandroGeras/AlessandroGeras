@@ -9,6 +9,12 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+15/06
+Finalizado meu 4º Bootcamp, Impulso Javascript Evolution.
+Bota na minha conta Dio, até agora no total foram 400 horas de treinamento.
+Transbordando sabedoria.
+Agora indo para o 5º Bootcamp. Vamos a luta 👊
+
 08/06
 Meu repositório Genius foi refatorado. Não houve mudanças de código mas houve uma documentação na parte do código em Javascript
 para facilitar a leitura por outros desenvolvedores.
@@ -32,11 +38,6 @@ Agora está na hora de me importar menos com novas tecnologias a serem aprendida
 Em comemoração aos 6 meses de Dio, vou refatorar todos os meus projetos existentes. Vai dar trabalho mas o sucesso não ocorre
 por acaso.
 Vamos a luta 👊
-
-15/06
-Finalizado meu 4º Bootcamp, Impulso Javascript Evolution.
-Bota na minha conta Dio, até agora no total foram 400 horas de treinamento.
-Agora indo para o 5º Bootcamp.
 
 19/05
 Mais da metade do bootcamp Impulso Javascript Evolution concluído em apenas uma semana. Transbordando sabedoria.
