@@ -33,8 +33,13 @@ Em comemoração aos 6 meses de Dio, vou refatorar todos os meus projetos existe
 por acaso.
 Vamos a luta 👊
 
+15/06
+Finalizado meu 4º Bootcamp, Impulso Javascript Evolution.
+Bota na minha conta Dio, até agora no total foram 400 horas de treinamento.
+Agora indo para o 5º Bootcamp.
+
 19/05
-Mais da metade do bootcamp TQI concluído em apenas uma semana. Transbordando sabedoria.
+Mais da metade do bootcamp Impulso Javascript Evolution concluído em apenas uma semana. Transbordando sabedoria.
 
 12/05
 Baterias renovadas. Começando o meu 4º bootcamp, TQI FullStack Developer. Já estou ficando expert em bootcamps.
