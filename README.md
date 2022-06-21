@@ -192,6 +192,7 @@ Convido a todos, a quem tiver interesse, ver o seguinte vídeo no qual temos mai
 |  Inter | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> SCRUM|  99 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/469750BC.jpg" width="110"> |
 |  Eduzz | TypeScript <br />NodeJS <br /> Mongo <br /> ReactJS <br /> Docker <BR /> AWS <br /> SCRUM|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/1DD74DD4.jpg" width="110">
 |  Spread | JavaScript <br />NodeJS <br /> SQL <br /> ReactJS <br /> TypeScript|  98 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/505F0D51.jpg" width="110"> 
+|  Impulso | JavaScript <br />NodeJS <br /> PostgreSQL <br /> MongoDB <br />  ReactJS <br /> TypeScript|  95 Horas |<img src="https://hermes.digitalinnovation.one/certificates/cover/8F788320.jpg" width="110">
 
 [Back to summary](#summary)
 
