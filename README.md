@@ -11,11 +11,12 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 Atualizações
 28/06
 Meu repositório Bootcamp foi refatorado e documentado.
-Decidi reverter uma mudança que eu tinha feito na refatoração que era de componentizar muito mais ainda este meu projeto mas a refatoração acabou
-fugindo da essência original, pois eu já estava componentizando com Redux, enquanto o original foi pouco componentizado pelas dificuldades de enviar
-props pelo projeto tudo por causa da Store que foi implantada. Decidi manter a estrutura original para também mostrar o nível de crescimento deste
-que foi meu segundo projeto para os demais, onde para mim a componentização já é uma estrutura dominada, como visto no meu projeto Curriculum que
-possui apenas 3 páginas e contém 43 componentes para esta formação.
+Decidi reverter uma mudança que eu tinha feito na refatoração que era de componentizar muito mais ainda este meu projeto mas a
+refatoração acabou fugindo da essência original, pois eu já estava componentizando com Redux, enquanto o original foi pouco
+componentizado pelas dificuldades de enviar props pelo projeto, tudo por causa da Store que foi implantada. Decidi manter a
+estrutura original para também mostrar o nível de crescimento deste que foi meu segundo projeto para os demais, onde para mim
+a componentização já é uma estrutura dominada, como visto no meu projeto Curriculum que possui apenas 3 páginas e contém 43
+componentes para esta formação.
 
 15/06
 Finalizado meu 4º Bootcamp, Impulso Javascript Evolution.
