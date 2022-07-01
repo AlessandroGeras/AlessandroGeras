@@ -9,6 +9,9 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+30/06
+Início do módulo de Banco de Dados do meu treinamento na Blusoft/Fapesc.
+
 28/06
 Meu repositório Bootcamp foi refatorado e documentado.
 Decidi reverter uma mudança que eu tinha feito na refatoração que era de componentizar muito mais ainda este meu projeto mas a
