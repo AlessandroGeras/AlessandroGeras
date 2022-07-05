@@ -9,6 +9,9 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+04/07
+Início das aulas de Relacionamentos em Banco de Dados.
+
 30/06
 Início do módulo de Banco de Dados do meu treinamento na Blusoft/Fapesc.
 
