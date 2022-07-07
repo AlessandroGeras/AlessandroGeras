@@ -9,6 +9,9 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+07/07
+Início das aulas de Finanças e Contabilidade
+
 05/07
 Refatorado minha Api do projeto Bootcamp.
 Feita a documentação sobre os passos envolvendo cookies, token JWT, rotas e CRUD.
