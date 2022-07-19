@@ -130,6 +130,7 @@ Convido a todos, a quem tiver interesse, ver o seguinte vídeo no qual temos mai
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--k4vCWq_J--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zv2toqc1oa1zv6uhugui.png" width="150px">SCRUM
 <img src="https://www.teamacuity.biz/hubfs/Kanban3.jpg" width="70px">KANBAN
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--wePMTOln--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cfzcosmrlq7oo4yekrgo.png" width="160px">TypeScript
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" width="99px">PHP
 <img src="https://jestjs.io/pt-BR/img/opengraph.png" width="129px">Jest
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQDgBLZRH4MYkRYPU3A-DtsZDd_oxa6CBCj46eyWDEH54Yvk4qtl5ZHFskbJoNeFKp46s&usqp=CAU" width="95px">.NET
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrrHGe-GRedxM5chPDm6AplC0X2gHxvDg4hQ&usqp=CAU" width="85px">Api Rest
