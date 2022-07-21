@@ -9,6 +9,13 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+21/07
+Férias?
+Iniciando os dois projetos de TCC, ao invés de um, com dois banco de dados diferentes, para a conclusão do treinamento da
+Blusoft/Fapesc com Eliabe Ribeiro Mota e Vinicius Jung.
+Iniciando os estudos sobre Laravel para o projeto final.
+Quem quer ter sucesso não tira férias. 👊
+
 07/07
 Início das aulas de Finanças e Contabilidade
 
