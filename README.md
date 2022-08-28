@@ -9,6 +9,10 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+28/08
+Iniciando meu 5º Bootcamp, Database Experience.
+Bora lá.
+
 21/07
 Férias?
 Iniciando os dois projetos de TCC, ao invés de um, com dois banco de dados diferentes, para a conclusão do treinamento da
