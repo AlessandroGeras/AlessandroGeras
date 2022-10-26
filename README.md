@@ -9,6 +9,10 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+26/10
+Formado na treinamento de PHP com Laravel pelo projeto Entra21/Blusoft.
+Apenas mais um pequeno passo para um grande futuro promissor. Vamos a luta.
+
 19/09
 Finalizado meu 5º Bootcamp, Database Experience em pleno domingo. Nem fim de semana me para. Vontade de ferro. 👊
 Agora um descansinho e bora se matricular no 6º Bootcamp.
