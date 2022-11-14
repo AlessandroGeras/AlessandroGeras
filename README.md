@@ -9,6 +9,17 @@ Fique a vontade para dar uma olhada no meu curriculo e caso tenha interesse, aba
 
 ```
 Atualizações
+14/11
+Começando hoje o meu 6º bootcamp na DIO. Já estou na lista como um dos membros com mais certificados. Quase 100!!!
+Jornada DevOps, um treinamento mais avançado com Linux, Docker, Kubernets e AWS.
+No mês que completo um ano de estudos em desenvolvimento, também é comemorado um novo foco.
+Chega de cursos de frontend com TypeScript, JavaScript, TailwindCSS e ReactJS.
+Chega de cursos de backend com API, SQL e NoSQL, NodeJS e Laravel.
+A base fullstack já está pronta.
+Está na hora de começar a deixar de ser júnior, largar o feijão e o arroz e investir em outras receitas que ajudarão
+na transição para pleno em 2024.
+Rumo a um futuro promissor. 👊
+
 26/10
 Formado na treinamento de PHP com Laravel pelo projeto Entra21/Blusoft.
 Apenas mais um pequeno passo para um grande futuro promissor. Vamos a luta.
