@@ -7,123 +7,12 @@
 <h4> Olá, bem vindo ao meu repositório. Para quem não me conhece, sou apaixonado por desafios. Cada problema superado é um prazer imenso, como vencer um jogo. Se precisar de ajuda em alguma dificuldade, conte comigo</h4><br />
 
 ```
-Atualizações
-14/11
-Começando hoje o meu 6º bootcamp na DIO. Já estou na lista como um dos membros com mais certificados. Quase 100!!!
-Jornada DevOps, um treinamento mais avançado com Linux, Docker, Kubernets e AWS.
-No mês que completo um ano de estudos em desenvolvimento, também é comemorado um novo foco.
-Chega de cursos de frontend com TypeScript, JavaScript, TailwindCSS e ReactJS.
-Chega de cursos de backend com API, SQL e NoSQL, NodeJS e Laravel.
-A base fullstack já está pronta.
-Está na hora de começar a deixar de ser júnior, largar o feijão e o arroz e investir em outras receitas que ajudarão
-na transição para pleno em 2024.
-Rumo a um futuro promissor. 👊
-
-26/10
-Formado na treinamento de PHP com Laravel pelo projeto Entra21/Blusoft.
-Apenas mais um pequeno passo para um grande futuro promissor. Vamos a luta.
-
-19/09
-Finalizado meu 5º Bootcamp, Database Experience em pleno domingo. Nem fim de semana me para. Vontade de ferro. 👊
-Agora um descansinho e bora se matricular no 6º Bootcamp.
-
-28/08
-Iniciando meu 5º Bootcamp, Database Experience.
-Bora lá.
-
-21/07
-Férias?
-Iniciando os dois projetos de TCC, ao invés de um, com dois banco de dados diferentes, para a conclusão do treinamento da
-Blusoft/Fapesc com Eliabe Ribeiro Mota e Vinicius Jung.
-Iniciando os estudos sobre Laravel para o projeto final.
-Quem quer ter sucesso não tira férias. 👊
-
-07/07
-Início das aulas de Finanças e Contabilidade
-
-05/07
-Refatorado minha Api do projeto Bootcamp.
-Feita a documentação sobre os passos envolvendo cookies, token JWT, rotas e CRUD.
-
-04/07
-Início das aulas de Relacionamentos em Banco de Dados.
-
-30/06
-Início do módulo de Banco de Dados do meu treinamento na Blusoft/Fapesc.
-
-28/06
-Meu repositório Bootcamp foi refatorado e documentado.
-Decidi reverter uma mudança que eu tinha feito na refatoração que era de componentizar muito mais ainda este meu projeto mas a
-refatoração acabou fugindo da essência original, pois eu já estava componentizando com Redux, enquanto o original foi pouco
-componentizado pelas dificuldades de enviar props pelo projeto, tudo por causa da Store que foi implantada. Decidi manter a
-estrutura original para também mostrar o nível de crescimento deste que foi meu segundo projeto para os demais, onde para mim
-a componentização já é uma estrutura dominada, como visto no meu projeto Curriculum que possui apenas 3 páginas e contém 43
-componentes para esta formação.
-
-15/06
-Finalizado meu 4º Bootcamp, Impulso Javascript Evolution.
-Bota na minha conta Dio, até agora no total foram 400 horas de treinamento.
-Transbordando sabedoria.
-Agora indo para o 5º Bootcamp. Vamos a luta 👊
-
-08/06
-Meu repositório Genius foi refatorado. Não houve mudanças de código mas houve uma documentação na parte do código em Javascript
-para facilitar a leitura por outros desenvolvedores.
-
-26/05
-Entrei em um projeto open source para colaborar. Mais detalhes na seção abaixo, "Open Source Project".
-
-21/05
-Meu repositório Netflix foi refatorado. A performance do site foi melhorada consideravelmente fazendo uma refatoração do
-addEventListener do scroll que faz a checagem em tempo real do efeito fading da Navbar.
-Cada seção do site recebeu seu próprio CSS individual.
-O código foi bem comentado e elogiado 😍 e servirá de modelo para os demais projetos.
-
-20/05
-Essa semana completa 6 meses que eu ingressei na Digital innovation.
-Foram tantas coisas aprendidas: Javascript, Typescript, NodeJS, ReactJS, Express, Api Rest, Bancos de Dados, AWS, Docker 
-e tantas outras tecnologias.
-Foram 65 certificados sobre Desenvolvimento, quase 10 projetos entregues, 23 testes de proficiência no Linkedin com sucesso
-e 3 Bootscamps.
-Agora está na hora de me importar menos com novas tecnologias a serem aprendidas e aperfeiçoar as já existentes.
-Em comemoração aos 6 meses de Dio, vou refatorar todos os meus projetos existentes. Vai dar trabalho mas o sucesso não ocorre
-por acaso.
-Vamos a luta 👊
-
-19/05
-Mais da metade do bootcamp Impulso Javascript Evolution concluído em apenas uma semana. Transbordando sabedoria.
-
-12/05
-Baterias renovadas. Começando o meu 4º bootcamp, TQI FullStack Developer. Já estou ficando expert em bootcamps.
-Neste vou ver meus velhos amigos HTML/CSS, Javascript, ReactJS, SQL e QA.
-Tem amigos novos chegando =D Welcome to my future skills, Java and Spring.
-
-10/05
-3º bootcamp concluído, Spread Fullstack Developer. Indo para o 4º. #Transbordando sabedoria.
-
-05/05
-Semana que vem finalmente vou terminar meu terceiro bootcamp.
-
-04/05
-Criei um artigo sobre licenças de software. Mais detalhes na seção abaixo, "Articles".
-
-26/04
-Primeira aula prática de SCRUM e de KANBAN. Show.
-Já perdi uma contratação por não ter experiência real em SCRUM, apesar de ter certificação teórica. Vamos a luta.
-
-18/04
-Início das aulas da Blusoft/Fapesc.
-
-15/04
-Consegui uma bolsa de estudos em PHP pela Blusoft/Fapesc com carga horária de 480 horas entre 11 mil candidatos. 
-Fiquei em 4ª lugar. Uma grande vitória. Correndo atrás da minha 24° certificação do Linkedin. Agora rumo ao sucesso.
+Atualmente não utilizo mais o Github profissionalmente pois para empresas, atuo com o Bitbucket com o Jira.
 ```
 
 <details open>
 <summary>Summary</summary> <a name="summary"></a>
 
-* [Articles](#articles)
-* [Projeto Open Source](#open_source)
 * [Full stack rules](#full_stack)
 * [Test Engineeer rules](#test_engineer)
 * [Network Admin rules](#network_admin)
@@ -134,23 +23,6 @@ Fiquei em 4ª lugar. Uma grande vitória. Correndo atrás da minha 24° certific
 * [Bootcamps](#bootcamps)
   
 </details>
-
-## Articles<br /> <a name="articles"></a>
-04/05/2022 <br />
-Me voluntariei e fiz uma apresentação ao professor Adriano, da Blusoft/Fapesc sobre Licença de Software, no intuito de ajudar todas as turmas do projeto Entra21 neste quesito. Ficou show. <br /><br />
-[Ver apresentação online sobre Licença de Software](https://docs.google.com/presentation/d/1Arg79wKodHYKoFvcjmnK74bU9vRiDfXCYKYXTDlNmqo)
-
-[Back to summary](#summary)
-
-## Open Source Project<br /> <a name="open_source"></a>
-26/05/2022 <br />
-É com orgulho que informo que comecei a participar de um projeto open source chamado "O Bom Professor", no qual o projeto tem foco na gestão do ensino com excelência.
-
-Convido a todos, a quem tiver interesse, ver o seguinte vídeo no qual temos mais detalhes e informações de contato para quem quiser participar. <br /><br />
-[Ver apresentação do projeto](https://www.youtube.com/watch?v=Gp7ntL1encQ&feature=share)
-
-[Back to summary](#summary)
-
 
 ## Full stack rules<br /> <a name="full_stack"></a>
 ![NodeJS](images/image-20211113125026184.png)NodeJS
