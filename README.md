@@ -2,7 +2,7 @@
  [![Gmail Badge](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandrogeras@gmail.com) 
 
 ```
-Atualmente não utilizo mais o Github profissionalmente pois para empresas, atuo com o Bitbucket com o Jira.
+Atualmente não utilizo mais o Github profissionalmente pois para empresas atuo com o Bitbucket e Jira.
 ```
 
 
